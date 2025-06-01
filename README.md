@@ -140,7 +140,7 @@ CustomerChurnPrediction/
 ├── src/
 │   ├── routes/             → FastAPI endpoints (FastAPI.py)
 │   ├── models/             → Trained model (model.pkl)
-│   ├── helpers/            → ML logic (create_model.py)
+│   ├── helpers/            → ML logic (Model.py)
 │   ├── data/               → Dataset (WA_*.csv)
 │   ├── dashboard/          → Power BI dashboard (.pbit)
 │   └── requirements.txt    → Python dependencies
