@@ -47,9 +47,6 @@ Applied K-Means Clustering to segment customers based on Tenure and Monthlycharg
 | `Cluster 1` | Low Value – High Risk                   |
 | `Cluster 2` | High Value – Low Risk (Loyal Customers) |
 
-
-
-
 ## Model Building:
 
 # Trained and evaluated multiple classification models:
