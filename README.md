@@ -31,8 +31,23 @@ This project predicts customer churn for a telecom company using various machine
 
 - Explored how each feature impacts churn behavior.
 
+- Using Plotly , Seaborn , Matplotlib , Pandas 
+
 ## Feature Engineering:
 Created new features and encoded categorical variables to enhance model performance.
+
+
+🔗 Clustering Analysis (Customer Segmentation):
+Applied K-Means Clustering to segment customers based on behavior() and value:
+
+| Cluster     | Description                             |
+| ----------- | --------------------------------------- |
+| `Cluster 0` | High Value – High Risk (May churn)      |
+| `Cluster 1` | Low Value – High Risk                   |
+| `Cluster 2` | High Value – Low Risk (Loyal Customers) |
+
+
+
 
 ## Model Building:
 
