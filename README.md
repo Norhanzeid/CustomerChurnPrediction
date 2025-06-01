@@ -25,6 +25,35 @@ This project predicts customer churn for a telecom company using various machine
 
 - Applied IQR (Interquartile Range) method and Boxplots to detect and treat outliers.
 
+## Exploratory Data Analysis (EDA) :
+
+- Analyzed distributions and relationships of features.
+
+- Explored how each feature impacts churn behavior.
+
+## Feature Engineering:
+Created new features and encoded categorical variables to enhance model performance.
+
+## Model Building:
+
+Trained and evaluated multiple classification models:
+
+Logistic Regression
+
+Support Vector Classifier (SVC)
+
+Random Forest Classifier
+
+Handling Class Imbalance
+
+Applied resampling techniques:
+
+SMOTE
+
+ADASYN
+
+SMOTEEN (SMOTE + Edited Nearest Neighbors)
+
 
 ## 🔧 Tech Stack
 
