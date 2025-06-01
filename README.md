@@ -19,37 +19,37 @@ This project predicts customer churn for a telecom company using various machine
     
   ⚙️ Steps Followed:
   
-    Handling Missing Data
+Handling Missing Data
 
-    Identified and handled missing values using appropriate imputation techniques.
+Identified and handled missing values using appropriate imputation techniques.
 
-    Outlier Detection & Treatment
+Outlier Detection & Treatment
 
-    Applied IQR (Interquartile Range) method and Boxplots to detect and treat outliers.
+Applied IQR (Interquartile Range) method and Boxplots to detect and treat outliers.
 
-    Exploratory Data Analysis (EDA)
+Exploratory Data Analysis (EDA)
 
-    Analyzed distributions and relationships of features.
+Analyzed distributions and relationships of features.
 
-    Explored how each feature impacts churn behavior.
+Explored how each feature impacts churn behavior.
 
-    Feature Engineering
+Feature Engineering
 
-    Created new features and encoded categorical variables to enhance model performance.
+Created new features and encoded categorical variables to enhance model performance.
 
-    Model Building:
+Model Building:
     
-    Trained and evaluated multiple classification models:
-    Logistic Regression
-    Support Vector Classifier (SVC)
-    Random Forest Classifier
-    Handling Class Imbalance
+Trained and evaluated multiple classification models:
+Logistic Regression
+Support Vector Classifier (SVC)
+Random Forest Classifier
+Handling Class Imbalance
     
-    Applied resampling techniques:
+Applied resampling techniques:
     
-    SMOTE
-    ADASYN
-    SMOTEEN (SMOTE + Edited Nearest Neighbors)
+SMOTE
+ADASYN
+SMOTEEN (SMOTE + Edited Nearest Neighbors)
   
 
 
