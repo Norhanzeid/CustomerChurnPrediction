@@ -52,23 +52,23 @@ Applied K-Means Clustering to segment customers based on Tenure and Monthlycharg
 
 ## Model Building:
 
-Trained and evaluated multiple classification models:
+# Trained and evaluated multiple classification models:
 
-Logistic Regression
+- Logistic Regression
 
-Support Vector Classifier (SVC)
+- Support Vector Classifier (SVC)
 
-Random Forest Classifier
+- Random Forest Classifier
 
 Handling Class Imbalance
 
 Applied resampling techniques:
 
-SMOTE
+- SMOTE
 
-ADASYN
+- ADASYN
 
-SMOTEEN (SMOTE + Edited Nearest Neighbors)
+- SMOTEEN (SMOTE + Edited Nearest Neighbors)
 
 
 ## 🔧 Tech Stack
