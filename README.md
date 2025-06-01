@@ -95,6 +95,8 @@ The trained model is deployed using a modern MLOps stack as follows:
 🚀 Live App : https://churnwebapp-etd4efbvbwg2c9bf.uaenorth-01.azurewebsites.net/
 
 
+
+
 ✳️ How it works:
 
 - User submits form data via frontend.
