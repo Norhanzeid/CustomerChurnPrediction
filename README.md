@@ -1,16 +1,16 @@
-# 📊 Customer Churn Prediction
+# 📊 Customer Churn Prediction  ![businessman](https://github.com/user-attachments/assets/0f2489d9-c139-46d9-944f-47b745f83e52)
+
 
 This project predicts customer churn for a telecom company using a Logistic Regression model. The prediction is based on multiple customer features including:
 
-Demographics: Gender, SeniorCitizen, Partner, Dependents
+- Demographics: Gender, SeniorCitizen, Partner, Dependents
 
-Customer Lifetime: Tenure
+- Customer Lifetime: Tenure
 
-Services Subscribed: PhoneService, MultipleLines, InternetService, OnlineSecurity, OnlineBackup, DeviceProtection, TechSupport, StreamingTV, StreamingMovies
+- Services Subscribed: PhoneService, MultipleLines, InternetService, OnlineSecurity, OnlineBackup, DeviceProtection, TechSupport, StreamingTV, StreamingMovies
 
-Billing Info: Contract type, PaperlessBilling, PaymentMethod, MonthlyCharges, TotalCharges
+- Billing Info: Contract type, PaperlessBilling, PaymentMethod, MonthlyCharges, TotalCharges
 
-The model helps identify which customers are more likely to churn based on these attributes.
 
 ---
 ## 🔍 Project Overview:
