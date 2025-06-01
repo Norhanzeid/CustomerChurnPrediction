@@ -17,59 +17,15 @@ The model helps identify which customers are more likely to churn based on these
 
 This project predicts customer churn for a telecom company using various machine learning models, advanced preprocessing techniques, and customer segmentation via clustering. The project includes:
     
-  ⚙️ Steps Followed:
+⚙️ Steps Followed:
   
-Handling Missing Data
+- Handling Missing Data
 
-Identified and handled missing values using appropriate imputation techniques.
+- Identified and handled missing values using appropriate imputation techniques.
 
-Outlier Detection & Treatment
+- Outlier Detection & Treatment
 
-Applied IQR (Interquartile Range) method and Boxplots to detect and treat outliers.
-
-Exploratory Data Analysis (EDA)
-
-Analyzed distributions and relationships of features.
-
-Explored how each feature impacts churn behavior.
-
-Feature Engineering
-
-Created new features and encoded categorical variables to enhance model performance.
-
-Model Building:
-    
-Trained and evaluated multiple classification models:
-Logistic Regression
-Support Vector Classifier (SVC)
-Random Forest Classifier
-Handling Class Imbalance
-    
-Applied resampling techniques:
-    
-SMOTE
-ADASYN
-SMOTEEN (SMOTE + Edited Nearest Neighbors)
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Applied IQR (Interquartile Range) method and Boxplots to detect and treat outliers.
 
 ## 🔧 Tech Stack
 
