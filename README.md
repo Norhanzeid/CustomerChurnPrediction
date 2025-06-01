@@ -5,23 +5,23 @@
 # 📊 Customer Churn Prediction  
 
 
-This project predicts customer churn for a telecom company using a Logistic Regression model. The prediction is based on multiple customer features including:
+This project predicts customer churn for a telecom company . The prediction is based on multiple customer features including:
 
-- Demographics: Gender, SeniorCitizen, Partner, Dependents
+- Demographics : Gender, SeniorCitizen, Partner, Dependents
 
-- Customer Lifetime: Tenure
+- Customer Lifetime : Tenure
 
-- Services Subscribed: PhoneService, MultipleLines, InternetService, OnlineSecurity, OnlineBackup, DeviceProtection, TechSupport, StreamingTV, StreamingMovies
+- Services Subscribed : PhoneService, MultipleLines, InternetService, OnlineSecurity, OnlineBackup, DeviceProtection, TechSupport, StreamingTV, StreamingMovies
 
-- Billing Info: Contract type, PaperlessBilling, PaymentMethod, MonthlyCharges, TotalCharges
+- Billing Info : Contract type, PaperlessBilling, PaymentMethod, MonthlyCharges, TotalCharges
 
 
 ---
-## 🔍 Project Overview:
+## 🔍 Project Overview :
 
 This project predicts customer churn for a telecom company using various machine learning models, advanced preprocessing techniques, and customer segmentation via clustering. The project includes:
     
-⚙️ Steps Followed:
+⚙️ Steps Followed :
 
 - Identified and handled missing values using appropriate imputation techniques.
 
@@ -38,6 +38,7 @@ This project predicts customer churn for a telecom company using various machine
 - Using Plotly , Seaborn , Matplotlib , Pandas 
 
 ## Feature Engineering:
+
 Created new features and encoded categorical variables to enhance model performance.
 
 
@@ -54,6 +55,7 @@ Applied K-Means Clustering to segment customers based on Tenure and Monthlycharg
 | `Cluster 1` | Low Value – High Risk                   |
 | `Cluster 2` | High Value – Low Risk (Loyal Customers) |
 
+
 ## Model Building:
 
 # Trained and evaluated multiple classification models:
@@ -63,6 +65,7 @@ Applied K-Means Clustering to segment customers based on Tenure and Monthlycharg
 - Support Vector Classifier (SVC)
 
 - Random Forest Classifier
+
 
 ## Handling Class Imbalance
 
