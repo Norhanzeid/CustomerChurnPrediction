@@ -37,7 +37,8 @@ This project predicts customer churn for a telecom company using various machine
 Created new features and encoded categorical variables to enhance model performance.
 
 
-🔗 Clustering Analysis (Customer Segmentation):
+## 🔗 Clustering Analysis (Customer Segmentation):
+
 Applied K-Means Clustering to segment customers based on behavior() and value:
 
 | Cluster     | Description                             |
