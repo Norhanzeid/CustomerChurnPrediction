@@ -78,6 +78,44 @@ Applied resampling techniques:
 - SMOTEEN (SMOTE + Edited Nearest Neighbors)
 
 
+## 🚀 Deployment Architecture:
+
+The trained model is deployed using a modern MLOps stack as follows:
+
+✅ FastAPI: To serve the prediction API (receives input from users and returns churn prediction).
+
+🐳 Docker: Containerizes the application to ensure consistent behavior across environments.
+
+☁️ Azure App Service: Hosts the Docker container using Azure Container Registry (ACR) for seamless deployment.
+
+
+![Screenshot (1327)](https://github.com/user-attachments/assets/79b839e7-a231-4aea-a16c-7cd657354f7c)
+
+
+🚀 Live App : https://churnwebapp-etd4efbvbwg2c9bf.uaenorth-01.azurewebsites.net/
+
+
+✳️ How it works:
+
+- User submits form data via frontend.
+
+- Frontend sends POST request to FastAPI endpoint (/predict).
+
+- FastAPI loads model.pkl and performs prediction.
+
+- Docker ensures this whole service is containerized.
+
+- Azure App Service pulls the Docker image and serves it as a web app.
+
+
+
+
+
+
+
+
+
+
 ## 🔧 Tech Stack
 
 - **Backend**: FastAPI  
