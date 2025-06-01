@@ -55,6 +55,8 @@ Applied K-Means Clustering to segment customers based on Tenure and Monthlycharg
 | `Cluster 1` | Low Value – High Risk                   |
 | `Cluster 2` | High Value – Low Risk (Loyal Customers) |
 
+![Screenshot (1329)](https://github.com/user-attachments/assets/ec59b8a0-d128-4f54-a510-6ac91713d3ca)
+
 
 ## Model Building:
 
@@ -110,14 +112,6 @@ The trained model is deployed using a modern MLOps stack as follows:
 - Azure App Service pulls the Docker image and serves it as a web app.
 
 
-
-
-
-
-
-
-
-
 ## 🔧 Tech Stack
 
 - **Backend**: FastAPI  
@@ -127,6 +121,17 @@ The trained model is deployed using a modern MLOps stack as follows:
 - **Languages**: Python  
 
 ---
+
+
+## My Awesome Power BI Dashboard  :
+
+![Screenshot (1325)](https://github.com/user-attachments/assets/5288e109-04f6-4410-8abe-d376693d3b40)
+
+
+![Screenshot (1326)](https://github.com/user-attachments/assets/a6449a1a-8579-4a1e-8477-cc3610341fe4)
+
+
+
 
 ## 📁 Project Structure
 
@@ -145,5 +150,4 @@ CustomerChurnPrediction/
 │   └── .dockerignore
 │
 └── README.md               → Project documentation
-
 
