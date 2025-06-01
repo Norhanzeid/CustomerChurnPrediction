@@ -39,7 +39,7 @@ Created new features and encoded categorical variables to enhance model performa
 
 ## 🔗 Clustering Analysis (Customer Segmentation):
 
-Applied K-Means Clustering to segment customers based on behavior() and value:
+Applied K-Means Clustering to segment customers based on Tenure and Monthlycharges :
 
 | Cluster     | Description                             |
 | ----------- | --------------------------------------- |
