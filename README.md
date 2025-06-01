@@ -20,17 +20,17 @@ CustomerChurnPrediction/
 
 ├── src/
 
- │ ├── routes/ → FastAPI endpoints (FastAPI.py)
+  │ ├── routes/ → FastAPI endpoints (FastAPI.py)
 
- │ ├── models/ → Trained model (model.pkl)
+  │ ├── models/ → Trained model (model.pkl)
 
- │ ├── helpers/ → ML logic (create_model.py)
+  │ ├── helpers/ → ML logic (create_model.py)
 
- │ ├── data/ → Dataset (WA_*.csv)
+  │ ├── data/ → Dataset (WA_*.csv)
 
- │ ├── dashboard/ → Power BI dashboard (.pbit)
+  │ ├── dashboard/ → Power BI dashboard (.pbit)
 
- │ └── requirements.txt → Python dependencies
+  │ └── requirements.txt → Python dependencies
  
 ├── Docker/
 
