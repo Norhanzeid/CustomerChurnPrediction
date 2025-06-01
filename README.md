@@ -15,7 +15,7 @@ The model helps identify which customers are more likely to churn based on these
 ---
 ## 🔍 Project Overview:
 
-    This project predicts customer churn for a telecom company using various machine learning models, advanced preprocessing techniques, and customer segmentation via clustering. The project includes:
+This project predicts customer churn for a telecom company using various machine learning models, advanced preprocessing techniques, and customer segmentation via clustering. The project includes:
     
   ⚙️ Steps Followed:
   
