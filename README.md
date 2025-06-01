@@ -91,13 +91,9 @@ The trained model is deployed using a modern MLOps stack as follows:
 
 ☁️ Azure App Service: Hosts the Docker container using Azure Container Registry (ACR) for seamless deployment.
 
-
-![Screenshot (1327)](https://github.com/user-attachments/assets/79b839e7-a231-4aea-a16c-7cd657354f7c)
-
-
 🚀 Live App : https://churnwebapp-etd4efbvbwg2c9bf.uaenorth-01.azurewebsites.net/
 
-
+![Screenshot (1327)](https://github.com/user-attachments/assets/79b839e7-a231-4aea-a16c-7cd657354f7c)
 
 
 ✳️ How it works:
