@@ -17,6 +17,7 @@ This project predicts customer churn for a telecom company using a trained machi
 ## 📁 Project Structure
 
 CustomerChurnPrediction/
+
 ├── src/
 
 │ ├── routes/ → FastAPI endpoints (FastAPI.py)
