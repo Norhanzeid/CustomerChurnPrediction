@@ -1,4 +1,8 @@
-# 📊 Customer Churn Prediction  ![businessman](https://github.com/user-attachments/assets/0f2489d9-c139-46d9-944f-47b745f83e52)
+
+![1705526647346 (1)](https://github.com/user-attachments/assets/1eb8cf32-7f33-478c-8130-d380f3c3149c)
+
+
+# 📊 Customer Churn Prediction  
 
 
 This project predicts customer churn for a telecom company using a Logistic Regression model. The prediction is based on multiple customer features including:
@@ -37,7 +41,10 @@ This project predicts customer churn for a telecom company using various machine
 Created new features and encoded categorical variables to enhance model performance.
 
 
-## 🔗 Clustering Analysis (Customer Segmentation):
+## 🔗 Clustering Analysis (Customer Segmentation) :
+
+![1_Dvx1j18vyKyvLlIpxzVSmQ](https://github.com/user-attachments/assets/5ca5aab5-e7e0-4ac6-8edc-34a28ff4218c)
+
 
 Applied K-Means Clustering to segment customers based on Tenure and Monthlycharges :
 
