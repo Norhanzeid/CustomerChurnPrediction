@@ -60,7 +60,7 @@ Applied K-Means Clustering to segment customers based on Tenure and Monthlycharg
 
 - Random Forest Classifier
 
-Handling Class Imbalance
+## Handling Class Imbalance
 
 Applied resampling techniques:
 
