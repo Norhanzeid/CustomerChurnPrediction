@@ -44,7 +44,7 @@ Created new features and encoded categorical variables to enhance model performa
 
 ## 🔗 Clustering Analysis (Customer Segmentation) :
 
-![1_Dvx1j18vyKyvLlIpxzVSmQ](https://github.com/user-attachments/assets/5ca5aab5-e7e0-4ac6-8edc-34a28ff4218c)
+![1_Dvx1j18vyKyvLlIpxzVSmQ](https://github.com/user-attachments/assets/1beb5d96-8ee8-4782-a00d-324a6b4c7d8f)
 
 
 Applied K-Means Clustering to segment customers based on Tenure and Monthlycharges :
@@ -55,7 +55,8 @@ Applied K-Means Clustering to segment customers based on Tenure and Monthlycharg
 | `Cluster 1` | Low Value – High Risk                   |
 | `Cluster 2` | High Value – Low Risk (Loyal Customers) |
 
-![Screenshot (1329)](https://github.com/user-attachments/assets/ec59b8a0-d128-4f54-a510-6ac91713d3ca)
+
+![Screenshot (1329)](https://github.com/user-attachments/assets/39e86651-5d67-47f1-b0bb-4974d4320fa9)
 
 
 ## Model Building:
@@ -125,10 +126,11 @@ The trained model is deployed using a modern MLOps stack as follows:
 
 ## My Awesome Power BI Dashboard  :
 
-![Screenshot (1325)](https://github.com/user-attachments/assets/5288e109-04f6-4410-8abe-d376693d3b40)
+![Screenshot (1325)](https://github.com/user-attachments/assets/5cd65631-69f3-451d-b696-d2197fb25704)
 
 
-![Screenshot (1326)](https://github.com/user-attachments/assets/a6449a1a-8579-4a1e-8477-cc3610341fe4)
+![Screenshot (1326)](https://github.com/user-attachments/assets/a466ce65-aae4-4eed-a532-67a6336c7c87)
+
 
 
 
