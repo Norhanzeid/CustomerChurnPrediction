@@ -1,6 +1,16 @@
 # 📊 Customer Churn Prediction
 
-This project predicts customer churn for a telecom company using a trained machine learning model. The project is deployed using FastAPI, Docker, and hosted on Azure.
+This project predicts customer churn for a telecom company using a Logistic Regression model. The prediction is based on multiple customer features including:
+
+Demographics: Gender, SeniorCitizen, Partner, Dependents
+
+Customer Lifetime: Tenure
+
+Services Subscribed: PhoneService, MultipleLines, InternetService, OnlineSecurity, OnlineBackup, DeviceProtection, TechSupport, StreamingTV, StreamingMovies
+
+Billing Info: Contract type, PaperlessBilling, PaymentMethod, MonthlyCharges, TotalCharges
+
+The model helps identify which customers are more likely to churn based on these attributes.
 
 ---
 
