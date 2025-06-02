@@ -25,8 +25,6 @@ This project predicts customer churn for a telecom company using various machine
 
 - Identified and handled missing values using appropriate imputation techniques.
 
-- Outlier Detection & Treatment
-
 - Applied IQR (Interquartile Range) method and Boxplots to detect and treat outliers.
 
 ## Exploratory Data Analysis (EDA) :
