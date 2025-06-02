@@ -120,10 +120,10 @@ The trained model is deployed using a modern MLOps stack as follows:
 
 ## Power BI Dashboard  :
 
+![Screenshot (1361)](https://github.com/user-attachments/assets/38d500d0-4f87-44bb-bf72-751017a9a717)
+
 ![Screenshot (1362)](https://github.com/user-attachments/assets/ef476d96-5077-4695-b31e-6d7421c7ec4b)
 
-
-![Screenshot (1361)](https://github.com/user-attachments/assets/38d500d0-4f87-44bb-bf72-751017a9a717)
 
 
 ## 📁 Project Structure
